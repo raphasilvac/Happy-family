@@ -1,0 +1,54 @@
+8
+
+dir
+4
+http://svn.satolephp.org/happyfamily/trunk/app/webroot/js/jquery
+http://svn.satolephp.org/happyfamily
+
+
+
+2010-08-28T20:58:27.085754Z
+4
+moacirosa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49e2b9b2-9186-45bd-aaba-c1613c6c5f4f
+
+jquery-1.4.2.min.js
+file
+
+
+
+
+2010-02-26T00:48:54.000000Z
+10092eee563dec2dca82b77d2cf5a1ae
+2010-08-28T20:58:27.085754Z
+4
+moacirosa
+has-props
+
+jquery-ui-1.8.4.custom.min.js
+file
+
+
+
+
+2010-08-28T14:54:26.000000Z
+7d548d4eda7021964680ab00f18fbd7a
+2010-08-28T20:58:27.085754Z
+4
+moacirosa
+has-props
+
